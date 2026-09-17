@@ -241,4 +241,4 @@ This repository serves as the official landing page for MotionBuilder. The softw
 **Get the most recent version of MotionBuilder today!**
 
 ---
-**Last updated:** 2026-09-17 02:19:44 UTC
+**Last updated:** 2026-09-17 08:07:44 UTC
